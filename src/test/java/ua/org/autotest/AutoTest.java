@@ -91,6 +91,6 @@ public class AutoTest {
     @AfterClass
     public static void CLose()
     {
-        //driver.quit();
+        driver.quit();
     }
 }
